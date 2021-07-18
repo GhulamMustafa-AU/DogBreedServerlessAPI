@@ -18,5 +18,3 @@ gcloud run deploy $CLOUD_RUN_SERVICE \
 --region us-central1 \
 --allow-unauthenticated \
 --project=$GOOGLE_PROJECT_ID
-
-/bin/bash
